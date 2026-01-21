@@ -8,3 +8,6 @@ Yes there's openuserjs.org but at the time I write the website seems down, I can
 429
 Too many requests.
 Please retry after approximately 86460 seconds.
+
+Chromium/Chrome extension: perfect YouTube player
+https://chromewebstore.google.com/detail/perfect-youtube-player/jopoklhnoandpjbmlppaoikhkngofcdh
