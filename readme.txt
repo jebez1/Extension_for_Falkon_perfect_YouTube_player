@@ -9,5 +9,5 @@ Yes there's openuserjs.org but at the time I write the website seems down, I can
 Too many requests.
 Please retry after approximately 86460 seconds.
 
-Chromium/Chrome extension: perfect YouTube player
+perfect YouTube player Chromium/Chrome extension:
 https://chromewebstore.google.com/detail/perfect-youtube-player/jopoklhnoandpjbmlppaoikhkngofcdh
