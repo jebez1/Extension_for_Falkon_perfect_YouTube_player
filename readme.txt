@@ -5,7 +5,7 @@ Hide the pointer after 1/2 second & the controls panel if not pointed.
 I asked to modify directly the Youtube player https://support.google.com/youtube/thread/391825051?hl=en&sjid=15456479075201339612-EU without success, Locked...
 
 Installation:
-Falkon, Preferences, Extensions, check GreaseMonkey, Settings, Open scripts directory, put in !.js, OK, OK, restart Falkon.
+Falkon, Preferences, Extensions, check GreaseMonkey, Settings, Open scripts directory, put in 0.js, OK, OK, restart Falkon.
 
 Yes there's openuserjs.org but at the time I write the website seems down, I can't sign up:
 429
